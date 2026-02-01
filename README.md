@@ -7,13 +7,13 @@
 </p>
 
 <p align="center">
-  <a href="YOUR_LINKEDIN">
+  <a href="www.linkedin.com/in/rahul-r-gadgimata">
     <img src="https://img.shields.io/badge/LinkedIn-1A73E8?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:YOUR_EMAIL">
+  <a href="rahulrgadgimata@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/Rahulrgadgimata">
     <img src="https://img.shields.io/badge/GitHub-202124?style=flat-square&logo=github&logoColor=white"/>
   </a>
 </p>
