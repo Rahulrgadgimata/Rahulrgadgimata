@@ -1,98 +1,116 @@
-<h1 align="center">Hi there, I'm Yuting </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Bitcount&pause=1000&width=435&lines=Customer+Engineer+at+Google+Cloud;Empower+businesses+with+magic+of+AI" alt="Typing SVG" /></a>
-</p>
+<h1 align="center">
+  Hi there, I'm Rahul 👋
+</h1>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/yutinglin123/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"></a>
-  <!--T<a href="https://yutinglin.vercel.app/"><img src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"></a>--> 
-  <a href="mailto:yuting0624@keio.jp"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white" alt="Email"></a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Google+Sans&weight=600&size=22&pause=1000&color=1A73E8&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Generative+AI+Enthusiast;Founder+@+Stack+Education;Building+Scalable+Products" />
 </p>
 
-## 👨‍💻 About Me
-
-I'm a customer engineer at Google Cloud, foucusing on Generative AI.
-
-- 🔭 I'm currently working on AI-powered assistive technologies
-- 🌱 I'm learning Google Cloud Platform, AWS, Azure, AI/ML, and web application development
-- 👯 I'm looking to collaborate on projects with social impact
-- 💬 Let's talk about AI applications, cloud computing, and inclusive technology development
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Skills & Tools
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-</p>
-
-## 🌟 Featured Projects
-
-### [Vision Bridge](https://github.com/yuting0624/VisionBridge)
-
-
-<div align="center">
-  <a href="https://googlecloudjapanaihackathon.devpost.com/">
-    <img src="https://img.shields.io/badge/🏆_Grand_Prize_Winner-Google_Cloud_AI_Hackathon_2024-000000?style=for-the-badge&logo=google&logoColor=white&labelColor=0D1117" alt="Grand Prize - Google Cloud AI Hackathon 2024"/>
+<p align="center">
+  <a href="YOUR_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-1A73E8?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>
-</div>
-
-
-An assistive application for visually impaired individuals, developed for the Google Cloud AI Hackathon 2024.
-
-
-- **Tech Stack**: Next.js, React, TypeScript, Node.js, Express, Google Cloud Platform (Vertex AI, Speech-to-Text, Text-to-Speech, DialogFlow CX, Cloud Run, Cloud Functions)
-- **Key Features**:
-  - Real-time environment recognition
-  - Navigation assistance
-  - Object and text recognition
-  - Voice command interface
-
-<p align="center">
-  <a href="https://youtu.be/XHFn-MErwkU">
-    <img src="https://img.youtube.com/vi/XHFn-MErwkU/0.jpg" alt="Vision Bridge Demo" width="50%">
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
   </a>
-</p>
-
-<div align="center">
-  <p>
-    <img src="https://img.shields.io/badge/Built_with-Gemini-1A73E8?style=flat-square&logo=google&logoColor=white&labelColor=090909" alt="Built with Gemini"/>
-    <img src="https://img.shields.io/badge/Deployed_on-Google_Cloud-1A73E8?style=flat-square&logo=googlecloud&logoColor=white&labelColor=090909" alt="Deployed on Google Cloud"/>
-    <a href="https://cloudonair.withgoogle.com/events/generative-ai-summit-24-fall">
-      <img src="https://img.shields.io/badge/Featured_at-Generative_AI_Summit_Tokyo_'24-1A73E8?style=flat-square&logo=google&logoColor=white&labelColor=090909" alt="Featured at Generative AI Summit Tokyo '24"/>
-    </a>
-  </p>
-</div>
-
-## 📚 Recent Learning
-
-- Google Cloud Platform: Exploring AI/ML services and Cloud AI Builder
-- Web Development: Deepening knowledge in Next.js and TypeScript
-- AI Ethics: Practicing inclusive and responsible AI development
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yuting0624&show_icons=true&theme=radical" alt="yuting0624's GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuting0624&layout=compact&theme=radical" alt="Top Langs" />
+  <a href="https://github.com/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/GitHub-202124?style=flat-square&logo=github&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
+## 🧠 About Me
+
+I'm a **Full Stack Developer and Generative AI enthusiast**, currently pursuing my engineering degree at **GM University**.  
+I enjoy building **production-ready applications** that solve **real-world problems** using **modern web technologies and AI**.
+
+- 🚀 **Founder – Stack Education** (*From learning to building*)
+- 🏗️ **Currently building:** **GM Finance (GM ONE)** – a financial management ecosystem
+- ☁️ **Cloud Focus:** Google Cloud Platform & AI services
+- 🤝 **Open to:** FAANG internships, startup roles, and open-source collaboration
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="42"/>
+  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="42"/>
+</p>
+
+---
+
+## 🌟 Featured Projects
+
+### 💼 GM Finance (GM ONE)
+
 <p align="center">
-  I'm passionate about leveraging AI and technology to create a more inclusive society. Always open to new ideas and collaboration opportunities!
+  <img src="https://user-images.githubusercontent.com/PLACEHOLDER/gm-finance-banner.png" width="90%" />
+</p>
+
+**A full-stack financial management platform designed for scalability and security.**
+
+- ⚙️ **Tech:** Next.js, TypeScript, Node.js, Express  
+- 🔐 Secure authentication & data handling  
+- 📊 Real-time expense tracking  
+
+🔗 **Repo:** https://github.com/YOUR_USERNAME/gm-finance
+
+---
+
+### 🩺 Oral Cancer Care App
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/PLACEHOLDER/healthcare-app-banner.png" width="90%" />
+</p>
+
+**Android application bridging healthcare access using mobile-first design.**
+
+- 📱 Android Studio  
+- 🌐 WebView integration  
+- 🎯 Focused on accessibility  
+
+🔗 **Repo:** https://github.com/YOUR_USERNAME/oral-cancer-care
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true"/>
 </p>
 
 <p align="center">
-  Language Skills: Japanese (Native), English (Business Level), Chinese (Native)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true"/>
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
+## 🎯 What I’m Looking For
+
+- 💼 **FAANG Internships / SWE roles**
+- 🚀 **Early-stage startup engineering roles**
+- 🌍 **Projects with real-world impact**
+- 🤖 **AI-powered applications**
+
+---
+
+<p align="center">
+  <b>“Build things that matter. Scale things that last.”</b>
 </p>
