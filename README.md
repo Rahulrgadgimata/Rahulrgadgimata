@@ -12,11 +12,8 @@
 <a href="https://github.com/Rahulrgadgimata">
   <img src="https://komarev.com/ghpvc/?username=Rahulrgadgimata&label=Profile+Views&color=00D9FF&style=for-the-badge&labelColor=0D1117" alt="Profile Views" />
 </a>
-&nbsp;
 <img src="https://img.shields.io/github/followers/Rahulrgadgimata?label=Followers&style=for-the-badge&color=58A6FF&logo=github&logoColor=white&labelColor=0D1117" alt="Followers" />
-&nbsp;
 <img src="https://img.shields.io/badge/Status-Open%20To%20Work-3DDC97?style=for-the-badge&logo=statuspal&logoColor=white&labelColor=0D1117" alt="Status" />
-&nbsp;
 <img src="https://img.shields.io/badge/Focus-AI%20%7C%20Full%20Stack-00D9FF?style=for-the-badge&labelColor=0D1117" alt="Focus" />
 
 </div>
@@ -102,15 +99,6 @@
 ![Express](https://img.shields.io/badge/Express-404D59?style=for-the-badge&logo=express&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
-**☁️ Cloud, DevOps & Infra**
-
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
 **🤖 AI / ML Ecosystem**
 
 ![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white)
@@ -118,13 +106,6 @@
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-
-**🗄️ Databases & Storage**
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 </div>
 
@@ -211,13 +192,13 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rahulrgadgimata&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" alt="Stats" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rahulrgadgimata&show_icons=true&theme=tokyonight&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&hide_border=true" alt="Main Stats" />
 &nbsp;&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahulrgadgimata&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" alt="Top Langs" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahulrgadgimata&layout=compact&theme=tokyonight&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&hide_border=true" alt="Top Langs" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=Rahulrgadgimata&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF" alt="Streak" />
+<img src="https://streak-stats.demolab.com?user=Rahulrgadgimata&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&stroke=00D9FF" alt="Streak Stats" />
 
 </div>
 
@@ -228,7 +209,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Rahulrgadgimata&theme=tokyonight" alt="Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=Rahulrgadgimata&theme=tokyonight&no-bg=true&no-frame=true&margin-w=4" alt="Hall of Fame" />
 
 </div>
 
@@ -259,7 +240,7 @@
     src="https://raw.githubusercontent.com/Rahulrgadgimata/Rahulrgadgimata/output/github-contribution-grid-snake-dark.svg" />
 </picture>
 
-> ⚠️ **Snake Error?** Move to the **Actions** tab on your GitHub → **Generate Contribution Snake** → Click **Run workflow** once. The snake will appear locally once the `output` branch is created!
+> ⚠️ **Snake Error?** Head to **Actions** tab on GitHub → **Generate Contribution Snake** → Click **Run workflow** once. The snake will appear locally once the `output` branch is created!
 
 </div>
 
