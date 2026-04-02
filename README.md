@@ -10,14 +10,14 @@
 
 <!-- STATUS BADGES -->
 <a href="https://github.com/Rahulrgadgimata">
-  <img src="https://komarev.com/ghpvc/?username=Rahulrgadgimata&label=Profile+Views&color=00D9FF&style=for-the-badge&labelColor=0D1117" />
+  <img src="https://komarev.com/ghpvc/?username=Rahulrgadgimata&label=Profile+Views&color=00D9FF&style=for-the-badge&labelColor=0D1117" alt="Profile Views" />
 </a>
 &nbsp;
-<img src="https://img.shields.io/github/followers/Rahulrgadgimata?label=Followers&style=for-the-badge&color=58A6FF&logo=github&logoColor=white&labelColor=0D1117" />
+<img src="https://img.shields.io/github/followers/Rahulrgadgimata?label=Followers&style=for-the-badge&color=58A6FF&logo=github&logoColor=white&labelColor=0D1117" alt="Followers" />
 &nbsp;
-<img src="https://img.shields.io/badge/Status-Open%20To%20Work-3DDC97?style=for-the-badge&logo=statuspal&logoColor=white&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Status-Open%20To%20Work-3DDC97?style=for-the-badge&logo=statuspal&logoColor=white&labelColor=0D1117" alt="Status" />
 &nbsp;
-<img src="https://img.shields.io/badge/Focus-AI%20%7C%20Full%20Stack-00D9FF?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Focus-AI%20%7C%20Full%20Stack-00D9FF?style=for-the-badge&labelColor=0D1117" alt="Focus" />
 
 </div>
 
@@ -40,7 +40,7 @@
 <!-- ██████████████████████ ABOUT ME — TERMINAL STYLE ██████████████████████ -->
 ## 🖥️ About Me
 
-<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Coding GIF" />
 
 ```bash
 ┌──(rahul㉿universe)-[~/life]
@@ -207,17 +207,17 @@
 ---
 
 <!-- ██████████████████████ GITHUB STATS ██████████████████████ -->
-## 📊 GitHub Stats
+## 📊 System Metrics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rahulrgadgimata&show_icons=true&hide_border=true&count_private=true&theme=neon&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rahulrgadgimata&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" alt="Stats" />
 &nbsp;&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahulrgadgimata&layout=compact&hide_border=true&theme=neon&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahulrgadgimata&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" alt="Top Langs" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=Rahulrgadgimata&theme=neon&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&stroke=00D9FF" />
+<img src="https://streak-stats.demolab.com?user=Rahulrgadgimata&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF" alt="Streak" />
 
 </div>
 
@@ -228,7 +228,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Rahulrgadgimata&theme=dracula&no-frame=true&no-bg=true&margin-w=6&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=Rahulrgadgimata&theme=tokyonight" alt="Trophies" />
 
 </div>
 
@@ -239,7 +239,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Rahulrgadgimata&bg_color=0D1117&color=00D9FF&line=00D9FF&point=58A6FF&area=true&area_color=00D9FF&hide_border=true" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Rahulrgadgimata&bg_color=0D1117&color=00D9FF&line=00D9FF&point=58A6FF&area=true&area_color=00D9FF&hide_border=true" alt="Activity Graph" />
 
 </div>
 
@@ -259,7 +259,7 @@
     src="https://raw.githubusercontent.com/Rahulrgadgimata/Rahulrgadgimata/output/github-contribution-grid-snake-dark.svg" />
 </picture>
 
-> ⚠️ **Snake Error?** Head to the **Actions** tab on your GitHub → **Generate Contribution Snake** → Click **Run workflow**. The snake will appear locally once the `output` branch is created!
+> ⚠️ **Snake Error?** Move to the **Actions** tab on your GitHub → **Generate Contribution Snake** → Click **Run workflow** once. The snake will appear locally once the `output` branch is created!
 
 </div>
 
@@ -286,7 +286,7 @@
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Quote" />
 
 </div>
 
