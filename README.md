@@ -4,7 +4,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:0d1b2a,100:1b2838&height=280&section=header&text=RAHUL%20R%20GADGIMATA&fontSize=65&fontColor=00D9FF&fontAlignY=45&desc=%E2%9A%A1%20Full%20Stack%20Developer%20%E2%80%A2%20GenAI%20Engineer%20%E2%80%A2%20Founder&descSize=20&descColor=E6EDF3&descAlignY=65&animation=fadeIn" />
 
 <!-- HACKER TYPING ANIMATION -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=24&duration=2200&pause=700&color=00D9FF&center=true&vCenter=true&width=850&lines=⚡+Building+Production-Grade+AI+Systems;🏗️+Architecting+GM+Finance+%E2%80%94+GM+ONE;🚀+Founder+%40+Stack+Education;🤖+LLMs+%7C+RAG+Pipelines+%7C+Multi-Agent+AI;💡+Code+That+Scales.+Products+That+Matter." alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=24&duration=2200&pause=700&color=00D9FF&center=true&vCenter=true&width=850&lines=⚡+Building+Production-Grade+AI+Systems;🏗️+Architecting+GM+Finance+%E2%80%94+GM+ONE;🚀+Founder+%40+Stack+Education;🤖+LLMs+%7C+RAG+Pipelines+%7C+Multi-Agent+AI;💡+Code+That+Scales.+Products+That+Matter." alt="Typing SVG" />
 
 <br/>
 
@@ -40,7 +40,7 @@
 <!-- ██████████████████████ ABOUT ME — TERMINAL STYLE ██████████████████████ -->
 ## 🖥️ About Me
 
-<img align="right" width="380" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"/>
+<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
 ```bash
 ┌──(rahul㉿universe)-[~/life]
@@ -228,7 +228,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Rahulrgadgimata&theme=matrix&no-frame=true&no-bg=true&margin-w=6&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=Rahulrgadgimata&theme=dracula&no-frame=true&no-bg=true&margin-w=6&column=7" />
 
 </div>
 
@@ -258,6 +258,8 @@
   <img alt="GitHub Contribution Snake"
     src="https://raw.githubusercontent.com/Rahulrgadgimata/Rahulrgadgimata/output/github-contribution-grid-snake-dark.svg" />
 </picture>
+
+> ⚠️ **Snake Error?** Head to the **Actions** tab on your GitHub → **Generate Contribution Snake** → Click **Run workflow**. The snake will appear locally once the `output` branch is created!
 
 </div>
 
@@ -297,7 +299,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=🚀+SCALE+THINGS+THAT+LAST;💻+CRAFTING+GLOBAL+IMPACT;🔥+STAY+HUNGRY.+STAY+FOOLISH." alt="Footer Typing" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=🚀+SCALE+THINGS+THAT+LAST;💻+CRAFTING+GLOBAL+IMPACT;🔥+STAY+HUNGRY.+STAY+FOOLISH." alt="Footer Typing" />
 
 <br/>
 
