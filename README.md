@@ -20,22 +20,8 @@
 
 ---
 
-<!-- ██████████████████████ SOCIALS ██████████████████████ -->
-<div align="center">
-
-### ⚡ Connect. Collaborate. Build.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahul-r-gadgimata)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rahulrgadgimata@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-E6EDF3?style=for-the-badge&logo=github&logoColor=black)](https://github.com/Rahulrgadgimata)
-[![Portfolio](https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=firefox-browser&logoColor=white)](#)
-
-</div>
-
----
-
 <!-- ██████████████████████ ABOUT ME — TERMINAL STYLE ██████████████████████ -->
-## 🖥️ About Me
+## 🖥️ System Overview
 
 <img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Coding GIF" />
 
@@ -44,161 +30,130 @@
 └─$ whoami
 
   Name     : Rahul R Gadgimata
-  Role     : Full Stack Developer & GenAI Engineer
-  Based    : GM University 🎓
-  Founder  : Stack Education 🚀
-  Building : GM Finance — GM ONE 💸
-  Cloud    : Google Cloud Platform ☁️
+  Role     : Co-Founder & CTO @ Stack Education
+  Academia : B.Tech (AIML) @ GM University [9.1+ CGPA]
+  Focus    : Generative AI & Scalable SaaS
+  Stack    : Next.js | Python | Google Cloud | Gemini AI
 
 ┌──(rahul㉿universe)-[~/life]
 └─$ cat mission.txt
 
-  → Craft AI-powered products that scale globally
-  → Build the next-gen financial ecosystem @ GM ONE
-  → Empower engineers via Stack Education
-  → Ship code that ships results
+  → Engineering the future of education at Stack Education
+  → Architecting the GM Finance (GM ONE) Ecosystem
+  → Developing AI-assisted healthcare (Oral Cancer Detection)
+  → Leading student affairs as General Secretary @ GMU
 
 ┌──(rahul㉿universe)-[~/life]
-└─$ cat interests.json
+└─$ cat core_values.json
 
   {
-    "openTo"   : ["FAANG Internships", "Startup SWE", "Open Source"],
-    "learning" : ["RAG Pipelines", "LLM Fine-tuning", "AI Agents"],
-    "motto"    : "Build things that matter. Scale things that last."
+    "vision"   : "Build things that matter. Scale things that last.",
+    "hobbies"  : ["Technical Events", "Cultural & Literacy", "Sports"],
+    "learning" : ["Multi-Agent AI", "LLM Ops", "Neo4j Graph Science"]
   }
 ```
 
-- ⚡ **Full Stack Dev** — End-to-end product engineering, React → Node → Cloud  
-- 🤖 **GenAI Engineer** — LLMs, RAG, multi-agent systems, Gemini API, LangChain  
-- 🚀 **Founder** — Stack Education: *"From Learning to Building"*  
-- 🏗️ **Currently architecting** GM Finance (GM ONE) — next-gen financial SaaS  
-- 🌐 **Cloud Native** — Google Cloud Platform, Firebase, Vercel, Docker  
-- 🎯 **Open to:** FAANG internships, early-stage startup SWE & impactful open source
-
 ---
 
-<!-- ██████████████████████ TECH STACK ██████████████████████ -->
-## 🛠️ Tech Stack & Weapons of Choice
+<!-- ██████████████████████ EXPERIENCE ██████████████████████ -->
+## 💼 Professional Experience
 
 <div align="center">
 
-**⚡ Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-
-**🚀 Frontend & Backend**
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-404D59?style=for-the-badge&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-
-**🤖 AI / ML Ecosystem**
-
-![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+| PERIOD | ROLE | ORGANIZATION |
+|:---:|:---|:---|
+| `2026 - PRES` | **Co-Founder & CTO** | **Stack Education** |
+| `2026 - 2026` | **Machine Learning Intern** | **Dynamix Networks** |
+| `2023 - PRES` | **General Secretary (Student Affairs)** | **GM University** |
+| `2025 - PRES` | **ACM Student Chapter Member** | **GM University** |
+| `2025 - 2025` | **IGNITRON Chief-Coordinator** | **GMU First Tech Fest** |
 
 </div>
 
 ---
 
 <!-- ██████████████████████ PROJECTS ██████████████████████ -->
-## 🔥 Flagship Projects
+## 🔥 Flagship Deployments
 
 <div align="center">
 
-```
-█▀▀ █▀▄▀█   █▀▀ █ █▄ █ ▄▀█ █▄ █ █▀▀ █▀▀   —   █▀▀ █▀▄▀█   █▀█ █▄ █ █▀▀
-█▄█ █ ▀ █   █▀  █ █ ▀█ █▀█ █ ▀█ █▄▄ ██▄   —   █▄█ █ ▀ █   █▄█ █ ▀█ ██▄
-```
+### 💸 GM FINANCE — GM ONE
+`Next.js` • `TypeScript` • `Node.js` • `PostgreSQL` • `GCP`
+> *A next-gen financial management ecosystem with Gemini-powered spending insights.*
+[![View Repo](https://img.shields.io/badge/ACCESS_REPO-00D9FF?style=for-the-badge&logo=github&logoColor=000)](https://github.com/Rahulrgadgimata)
 
-</div>
-
-> 💸 **A next-gen financial management SaaS — production-grade, AI-assisted**
-
-| | Feature | Details |
-|:---:|:---|:---|
-| ⚙️ | **Stack** | `Next.js` · `TypeScript` · `Node.js` · `Express` · `PostgreSQL` |
-| 🔐 | **Security** | JWT auth · Role-based access · Encrypted data handling |
-| 📊 | **Analytics** | Real-time dashboards · Expense tracking · Financial reports |
-| ☁️ | **Cloud** | Google Cloud Platform — scalable, resilient, production-ready |
-| 🤖 | **AI Layer** | Gemini-powered spending insights & financial recommendations |
-| 🚀 | **Status** | `v1.0` — Building in production · Dropping soon |
-
-<div align="center">
-
-[![GM Finance Repo](https://img.shields.io/badge/View_Repository-00D9FF?style=for-the-badge&logo=github&logoColor=black)](https://github.com/Rahulrgadgimata)
+### 🩺 ORAL CANCER CARE (DR. ARIA)
+`Android` • `Deep Learning (ResNet)` • `AI Voice Avatar`
+> *AI-powered screening with a multilingual voice assistant. Trained on 1000+ images.*
+[![View Repo](https://img.shields.io/badge/ACCESS_APP-58A6FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rahulrgadgimata)
 
 </div>
 
 ---
 
+<!-- ██████████████████████ ACADEMICS ██████████████████████ -->
+## 🎓 Academic Foundation
+
+```bash
+┌──(rahul㉿universe)-[~/academia]
+└─$ ls -l
+
+  - Bachelor of Technology in AIML | GM University (2023 - 2027)
+    - Status: 9.1+ CGPA | ACTIVE
+    - Roles: Student Affairs Leader | Anti-Ragging Committee | NSS Coordinator
+  - Pre-University (Science) | Vishwachetana Vidyaniketana Residential College
+```
+
+---
+
+<!-- ██████████████████████ CERTIFICATIONS ██████████████████████ -->
+## 🏆 Certifications & Achievements
+
+- 🥇 **4x Hackathon Winner** — Recognized for innovation and rapid prototyping.
+- 🧬 **Neo4j Graph Data Science Certified** — Issued Jan 2026.
+- 🧠 **Advanced Deep Learning & AI Systems** — Udemy (Jan 2026).
+- 🌍 **NSS Coordinator** — Leading social service initiatives and health camps.
+
+---
+
+<!-- ██████████████████████ TECH STACK ██████████████████████ -->
+## 🛠️ Tech Arsenal
+
 <div align="center">
 
-```
-█▀█ █▀█ ▄▀█ █    █▀▀ ▄▀█ █▄ █ █▀▀ █▀▀ █▀█   █▀▀ ▄▀█ █▀█ █▀▀   ▄▀█ █▀█ █▀█
-█▄█ █▀▄ █▀█ █▄▄  █▄▄ █▀█ █ ▀█ █▄▄ ██▄ █▀▄   █▄▄ █▀█ █▀▄ ██▄   █▀█ █▀▀ █▀▀
-```
+**⚡ Languages & Web**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TS](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 
-</div>
+**🤖 AI & Machine Learning**
+![Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat-square&logo=google&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j-4581C3?style=flat-square&logo=neo4j&logoColor=white)
 
-> 🩺 **Mobile-first healthcare platform with AI-assisted early detection**
-
-| | Feature | Details |
-|:---:|:---|:---|
-| 📱 | **Platform** | Android · Android Studio · Java |
-| 🌐 | **Integration** | WebView · REST APIs · Cloud Storage |
-| 🤖 | **AI** | ML-powered oral cancer early detection model |
-| 🎯 | **Impact** | Accessibility-first — bridging healthcare gaps |
-
-<div align="center">
-
-[![Oral Cancer App Repo](https://img.shields.io/badge/View_Repository-58A6FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rahulrgadgimata)
+**☁️ Cloud & Infrastructure**
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Postgres](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
 </div>
 
 ---
 
-<div align="center">
-
-```
-█▀ ▀█▀ ▄▀█ █▀▀ █▄▀   █▀▀ █▀▄ █ █ █▀▀ ▄▀█ ▀█▀ █ █▀█ █▄ █
-▄█  █  █▀█ █▄▄ █ █   ██▄ █▄▀ █▄█ █▄▄ █▀█  █  █ █▄█ █ ▀█
-```
-
-</div>
-
-> 🎓 **"From Learning to Building" — Engineering education, reimagined**
-
-| | Feature | Details |
-|:---:|:---|:---|
-| 🧑‍💻 | **Vision** | Bridge the gap between textbooks and real production engineering |
-| 🏗️ | **Format** | Project-based courses · 1-on-1 mentorship · Real deployments |
-| 🌍 | **Mission** | Build the next wave of production-ready engineers |
-
----
-
-<!-- ██████████████████████ GITHUB STATS ██████████████████████ -->
+<!-- ██████████████████████ STATS ██████████████████████ -->
 ## 📊 System Metrics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rahulrgadgimata&show_icons=true&theme=tokyonight&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&hide_border=true" alt="Main Stats" />
-&nbsp;&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahulrgadgimata&layout=compact&theme=tokyonight&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&hide_border=true" alt="Top Langs" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rahulrgadgimata&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" alt="Stats" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahulrgadgimata&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" alt="Top Langs" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=Rahulrgadgimata&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&stroke=00D9FF" alt="Streak Stats" />
+<img src="https://streak-stats.demolab.com?user=Rahulrgadgimata&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF" alt="Streak" />
 
 </div>
 
@@ -209,18 +164,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Rahulrgadgimata&theme=tokyonight&no-bg=true&no-frame=true&margin-w=4" alt="Hall of Fame" />
-
-</div>
-
----
-
-<!-- ██████████████████████ ACTIVITY GRAPH ██████████████████████ -->
-## 📈 Contribution Battlefield
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Rahulrgadgimata&bg_color=0D1117&color=00D9FF&line=00D9FF&point=58A6FF&area=true&area_color=00D9FF&hide_border=true" alt="Activity Graph" />
+<img src="https://github-profile-trophy.vercel.app/?username=Rahulrgadgimata&theme=tokyonight&no-bg=true&no-frame=true&margin-w=4" alt="Trophies" />
 
 </div>
 
@@ -232,42 +176,28 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/Rahulrgadgimata/Rahulrgadgimata/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/Rahulrgadgimata/Rahulrgadgimata/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub Contribution Snake"
-    src="https://raw.githubusercontent.com/Rahulrgadgimata/Rahulrgadgimata/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rahulrgadgimata/Rahulrgadgimata/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rahulrgadgimata/Rahulrgadgimata/output/github-contribution-grid-snake.svg" />
+  <img alt="Snake" src="https://raw.githubusercontent.com/Rahulrgadgimata/Rahulrgadgimata/output/github-contribution-grid-snake-dark.svg" />
 </picture>
 
-> ⚠️ **Snake Error?** Head to **Actions** tab on GitHub → **Generate Contribution Snake** → Click **Run workflow** once. The snake will appear locally once the `output` branch is created!
-
 </div>
 
 ---
 
-<!-- ██████████████████████ GOALS ██████████████████████ -->
-## 🎯 Mission Targets
+<!-- ██████████████████████ GET IN TOUCH ██████████████████████ -->
+## 📬 Get In Touch
 
 <div align="center">
 
-| 🎯 Target | 💬 Details |
-|:---:|:---|
-| ⚡ **FAANG / Tier-1 Tech** | SWE · AI Engineering · Internships at the best in the world |
-| 🚀 **0 → 1 Startups** | High-velocity engineering at companies with real traction |
-| 🤖 **AI Systems** | LLM infrastructure · Agents · RAG systems · Production AI |
-| 🌍 **Open Source** | Meaningful contributions that impact developers worldwide |
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahul-r-gadgimata)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rahulrgadgimata@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/917019670142)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](#)
 
-</div>
+<br/>
 
----
-
-<!-- ██████████████████████ QUOTE ██████████████████████ -->
-## 💬 Today's Fuel
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Quote" />
+**Location:** India | **Working Hours:** 24/7 Builder Mode 🚀
 
 </div>
 
