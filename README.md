@@ -12,11 +12,8 @@
 <a href="https://github.com/Rahulrgadgimata">
   <img src="https://komarev.com/ghpvc/?username=Rahulrgadgimata&label=Profile+Views&color=00D9FF&style=for-the-badge&labelColor=0D1117" alt="Profile Views" />
 </a>
-&nbsp;
 <img src="https://img.shields.io/github/followers/Rahulrgadgimata?label=Followers&style=for-the-badge&color=58A6FF&logo=github&logoColor=white&labelColor=0D1117" alt="Followers" />
-&nbsp;
 <img src="https://img.shields.io/badge/Status-Open%20To%20Work-3DDC97?style=for-the-badge&logo=statuspal&logoColor=white&labelColor=0D1117" alt="Status" />
-&nbsp;
 <img src="https://img.shields.io/badge/Focus-AI%20%7C%20Full%20Stack-00D9FF?style=for-the-badge&labelColor=0D1117" alt="Focus" />
 
 </div>
@@ -28,16 +25,16 @@
 
 ### ⚡ Connect. Collaborate. Build.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahul-r-gadgimata)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rahulrgadgimata@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-E6EDF3?style=for-the-badge&logo=github&logoColor=black)](https://github.com/Rahulrgadgimata)
-[![Portfolio](https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=firefox-browser&logoColor=white)](#)
+<a href="https://www.linkedin.com/in/rahul-r-gadgimata"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:rahulrgadgimata@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+<a href="https://github.com/Rahulrgadgimata"><img src="https://img.shields.io/badge/GitHub-E6EDF3?style=for-the-badge&logo=github&logoColor=black" alt="GitHub" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=firefox-browser&logoColor=white" alt="Portfolio" /></a>
 
 </div>
 
 ---
 
-<!-- ██████████████████████ ABOUT ME — TERMINAL STYLE ██████████████████████ -->
+<!-- █████████████████████ ABOUT ME █████████████████████ -->
 ## 🖥️ About Me
 
 <img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Coding GIF" />
@@ -80,219 +77,99 @@
 
 ---
 
-<!-- ██████████████████████ TECH STACK ██████████████████████ -->
+<!-- █████████████████████ TECH STACK █████████████████████ -->
 ## 🛠️ Tech Stack & Weapons of Choice
 
 <div align="center">
 
 **⚡ Languages**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
 
-**🚀 Frontend & Backend**
+<br/>
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-404D59?style=for-the-badge&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+**🚀 Frameworks & Libraries**
 
-**☁️ Cloud, DevOps & Infra**
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Express-404D59?style=for-the-badge&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
 
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+<br/>
 
 **🤖 AI / ML Ecosystem**
 
-![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-
-**🗄️ Databases & Storage**
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+<img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
 
 </div>
 
 ---
 
-<!-- ██████████████████████ PROJECTS ██████████████████████ -->
-## 🔥 Flagship Projects
-
-<div align="center">
-
-```
-█▀▀ █▀▄▀█   █▀▀ █ █▄ █ ▄▀█ █▄ █ █▀▀ █▀▀   —   █▀▀ █▀▄▀█   █▀█ █▄ █ █▀▀
-█▄█ █ ▀ █   █▀  █ █ ▀█ █▀█ █ ▀█ █▄▄ ██▄   —   █▄█ █ ▀ █   █▄█ █ ▀█ ██▄
-```
-
-</div>
-
-> 💸 **A next-gen financial management SaaS — production-grade, AI-assisted**
-
-| | Feature | Details |
-|:---:|:---|:---|
-| ⚙️ | **Stack** | `Next.js` · `TypeScript` · `Node.js` · `Express` · `PostgreSQL` |
-| 🔐 | **Security** | JWT auth · Role-based access · Encrypted data handling |
-| 📊 | **Analytics** | Real-time dashboards · Expense tracking · Financial reports |
-| ☁️ | **Cloud** | Google Cloud Platform — scalable, resilient, production-ready |
-| 🤖 | **AI Layer** | Gemini-powered spending insights & financial recommendations |
-| 🚀 | **Status** | `v1.0` — Building in production · Dropping soon |
-
-<div align="center">
-
-[![GM Finance Repo](https://img.shields.io/badge/View_Repository-00D9FF?style=for-the-badge&logo=github&logoColor=black)](https://github.com/Rahulrgadgimata)
-
-</div>
-
----
-
-<div align="center">
-
-```
-█▀█ █▀█ ▄▀█ █    █▀▀ ▄▀█ █▄ █ █▀▀ █▀▀ █▀█   █▀▀ ▄▀█ █▀█ █▀▀   ▄▀█ █▀█ █▀█
-█▄█ █▀▄ █▀█ █▄▄  █▄▄ █▀█ █ ▀█ █▄▄ ██▄ █▀▄   █▄▄ █▀█ █▀▄ ██▄   █▀█ █▀▀ █▀▀
-```
-
-</div>
-
-> 🩺 **Mobile-first healthcare platform with AI-assisted early detection**
-
-| | Feature | Details |
-|:---:|:---|:---|
-| 📱 | **Platform** | Android · Android Studio · Java |
-| 🌐 | **Integration** | WebView · REST APIs · Cloud Storage |
-| 🤖 | **AI** | ML-powered oral cancer early detection model |
-| 🎯 | **Impact** | Accessibility-first — bridging healthcare gaps |
-
-<div align="center">
-
-[![Oral Cancer App Repo](https://img.shields.io/badge/View_Repository-58A6FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rahulrgadgimata)
-
-</div>
-
----
-
-<div align="center">
-
-```
-█▀ ▀█▀ ▄▀█ █▀▀ █▄▀   █▀▀ █▀▄ █ █ █▀▀ ▄▀█ ▀█▀ █ █▀█ █▄ █
-▄█  █  █▀█ █▄▄ █ █   ██▄ █▄▀ █▄█ █▄▄ █▀█  █  █ █▄█ █ ▀█
-```
-
-</div>
-
-> 🎓 **"From Learning to Building" — Engineering education, reimagined**
-
-| | Feature | Details |
-|:---:|:---|:---|
-| 🧑‍💻 | **Vision** | Bridge the gap between textbooks and real production engineering |
-| 🏗️ | **Format** | Project-based courses · 1-on-1 mentorship · Real deployments |
-| 🌍 | **Mission** | Build the next wave of production-ready engineers |
-
----
-
-<!-- ██████████████████████ GITHUB STATS ██████████████████████ -->
+<!-- █████████████████████ GITHUB STATS █████████████████████ -->
 ## 📊 System Metrics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rahulrgadgimata&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" alt="Stats" />
-&nbsp;&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahulrgadgimata&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" alt="Top Langs" />
+<table>
+  <tr>
+    <td align="center"><img height="180px" src="https://github-readme-stats.vercel.app/api?username=Rahulrgadgimata&show_icons=true&theme=tokyonight&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&hide_border=true" /></td>
+    <td align="center"><img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahulrgadgimata&layout=compact&theme=tokyonight&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&hide_border=true" /></td>
+  </tr>
+</table>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=Rahulrgadgimata&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF" alt="Streak" />
+<img src="https://streak-stats.demolab.com?user=Rahulrgadgimata&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF" />
+
+<br/>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Rahulrgadgimata&bg_color=0D1117&color=00D9FF&line=00D9FF&point=58A6FF&area=true&area_color=00D9FF&hide_border=true" />
 
 </div>
 
 ---
 
-<!-- ██████████████████████ TROPHIES ██████████████████████ -->
+<!-- █████████████████████ TROPHIES █████████████████████ -->
 ## 🏆 Hall of Fame
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Rahulrgadgimata&theme=tokyonight" alt="Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=Rahulrgadgimata&theme=tokyonight&no-bg=true" />
 
 </div>
 
 ---
 
-<!-- ██████████████████████ ACTIVITY GRAPH ██████████████████████ -->
-## 📈 Contribution Battlefield
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Rahulrgadgimata&bg_color=0D1117&color=00D9FF&line=00D9FF&point=58A6FF&area=true&area_color=00D9FF&hide_border=true" alt="Activity Graph" />
-
-</div>
-
----
-
-<!-- ██████████████████████ SNAKE ██████████████████████ -->
+<!-- █████████████████████ SNAKE █████████████████████ -->
 ## 🐍 Contribution Snake
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/Rahulrgadgimata/Rahulrgadgimata/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/Rahulrgadgimata/Rahulrgadgimata/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub Contribution Snake"
-    src="https://raw.githubusercontent.com/Rahulrgadgimata/Rahulrgadgimata/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rahulrgadgimata/Rahulrgadgimata/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rahulrgadgimata/Rahulrgadgimata/output/github-contribution-grid-snake.svg" />
+  <img alt="Snake" src="https://raw.githubusercontent.com/Rahulrgadgimata/Rahulrgadgimata/output/github-contribution-grid-snake-dark.svg" />
 </picture>
 
-> ⚠️ **Snake Error?** Move to the **Actions** tab on your GitHub → **Generate Contribution Snake** → Click **Run workflow** once. The snake will appear locally once the `output` branch is created!
+<br/>
+
+> 🐍 **Instruction**: Go to **Actions** → **Generate Contribution Snake** → **Run workflow**. The snake will appear locally once the `output` branch is created!
 
 </div>
 
 ---
 
-<!-- ██████████████████████ GOALS ██████████████████████ -->
-## 🎯 Mission Targets
-
-<div align="center">
-
-| 🎯 Target | 💬 Details |
-|:---:|:---|
-| ⚡ **FAANG / Tier-1 Tech** | SWE · AI Engineering · Internships at the best in the world |
-| 🚀 **0 → 1 Startups** | High-velocity engineering at companies with real traction |
-| 🤖 **AI Systems** | LLM infrastructure · Agents · RAG systems · Production AI |
-| 🌍 **Open Source** | Meaningful contributions that impact developers worldwide |
-
-</div>
-
----
-
-<!-- ██████████████████████ QUOTE ██████████████████████ -->
-## 💬 Today's Fuel
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Quote" />
-
-</div>
-
----
-
-<!-- ██████████████████████ FOOTER ██████████████████████ -->
+<!-- █████████████████████ FOOTER █████████████████████ -->
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=00D9FF&height=120&section=footer&text=BUILD%20THINGS%20THAT%20MATTER&fontSize=40&fontColor=000000&animation=fadeIn" />
